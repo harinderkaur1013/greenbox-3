@@ -1,0 +1,76 @@
+.parentbox {
+    width: 995px;
+    height: auto;
+}
+
+header {
+    width: 995px;
+    height: 70px;
+    background: green;
+}
+
+.section1 {
+    width: 995px;
+    height: 470px;
+    background: #7cc576;
+    margin: 5px;
+}
+
+.section2 {
+    width: 995px;
+    height: 460px;
+    border: 1px white;
+    background: white;
+}
+
+.firstbox {
+    width: 320px;
+    height: 440px;
+    margin: 5px;
+    border: 1px white;
+    background: white;
+    float: left;
+}
+
+.top {
+    width: 320px;
+    height: 220px;
+    margin: 5px;
+    background: green;
+}
+
+.secondbox {
+    width: 320px;
+    height: 440px;
+    margin: 5px;
+    border: 1px white;
+    float: left;
+}
+
+.middle {
+    width: 320px;
+    height: 220px;
+    margin: 5px;
+    background: green;
+}
+
+.thirdbox {
+    width: 320px;
+    height: 440px;
+    margin: 5px;
+    border: 1px white;
+    float: right;
+}
+
+.right {
+    width: 320px;
+    height: 220px;
+    margin: 5px;
+    background: green;
+}
+
+footer {
+    width: 995px;
+    height: 150px;
+    background: green;
+}
